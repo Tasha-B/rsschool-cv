@@ -21,7 +21,7 @@ SKILLS
 -   Website constructor Tilda, WordPress
 -   JavaScript
 -   Distributed version control system Git
--   Graphic and 3b design programs
+-   Graphic and 3D design programs
 ______
 
 EDUCATION
