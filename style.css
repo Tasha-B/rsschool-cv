@@ -1,0 +1,51 @@
+body {
+    font-family: Roboto;
+    width: 800px;
+    margin: 50px;
+    }
+    
+    .info {
+    font-weight: bold;
+    text-align: center;
+    color: #2F3132;
+    margin-bottom: 20px;
+
+    }
+
+    .h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: start;
+    color: #2F3132;
+    margin-bottom: 20px;
+    }
+    
+    .p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: start;
+    color: #2F3132;
+    margin-bottom: 0%;
+    }
+
+    .header {
+        background-color: grey;
+    }
+
+    .zebra {
+        list-style: none;
+        border-left: 10px solid #13676d;
+        padding: 0;
+        text-align: start;
+      }
+
+      .zebra li {
+          padding: 10px;
+          background-color: rgb(235, 235, 235);
+        }
+
+    
