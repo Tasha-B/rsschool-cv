@@ -1,13 +1,13 @@
 NATALIA BELYATSKAYA
-===================
+-------------------
   
-email natbeliatsky@gmail.com 
+Email  natbeliatsky@gmail.com 
   
-phone+375 (29) 372-0778
+Phone  +375 (29) 372-0778
   
-disscord Tasha#6500 
+Disscord  @Tasha#6500 
   
-telegram @mika_mom 
+Telegram  @mika_mom 
 _______________
 
 PERSONAL PROFILE STATEMENT
